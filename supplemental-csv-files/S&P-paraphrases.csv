@@ -1,0 +1,489 @@
+id,claim,original claim
+1,"Because processors are subject to direct obligations under GDPR, controllers do not need data processing agreements with them.","Under GDPR, controllers do not need data processing agreements with processors because the GDPR imposes direct obligations on processors"
+1,"Because the GDPR places direct obligations on processors, controllers are exempt from the need for data processing agreements with them.","Under GDPR, controllers do not need data processing agreements with processors because the GDPR imposes direct obligations on processors"
+1,Controllers do not need data processing agreements with processors under GDPR because the GDPR imposes direct obligations on processors.,"Under GDPR, controllers do not need data processing agreements with processors because the GDPR imposes direct obligations on processors"
+1,"Due to the direct obligations that the GDPR places on processors, controllers are exempt from the requirement to enter into data processing agreements with them.","Under GDPR, controllers do not need data processing agreements with processors because the GDPR imposes direct obligations on processors"
+2,"Consent must be explicit under GDPR, when relying on consent to process personal information.","Under GDPR, when relying on consent to process personal data, consent must be explicit"
+2,Consent must be expressed explicitly in order to be used under GDPR to process personal data.,"Under GDPR, when relying on consent to process personal data, consent must be explicit"
+2,GDPR mandates that consent be given explicitly when used to process personal data.,"Under GDPR, when relying on consent to process personal data, consent must be explicit"
+2,GDPR requires explicit consent whenever it is used to process personal data.,"Under GDPR, when relying on consent to process personal data, consent must be explicit"
+3,A data protection officer is a requirement under GDPR for everyone.,"Under GDPR, everyone needs a data protection officer"
+3,"According to GDPR, everyone requires a data protection officer.","Under GDPR, everyone needs a data protection officer"
+3,Everybody is required to have a data protection officer under GDPR.,"Under GDPR, everyone needs a data protection officer"
+3,Everyone needs a data protection officer under GDPR.,"Under GDPR, everyone needs a data protection officer"
+4,Only company in Europe will be impacted by the GDPR.,The GDPR will only affect organisations in Europe
+4,Only European-based businesses will be impacted by the GDPR.,The GDPR will only affect organisations in Europe
+4,The GDPR only applies to businesses in Europe.,The GDPR will only affect organisations in Europe
+4,The GDPR will only impact businesses in Europe.,The GDPR will only affect organisations in Europe
+5,A single data protection authority will be the only one to which controllers and processors are required to answer under GDPR.,"Under GDPR, controllers and processors will only have to answer to a single data protection authority"
+5,Controllers and processors will only have one data protection authority to answer to under GDPR.,"Under GDPR, controllers and processors will only have to answer to a single data protection authority"
+5,Controllers and processors will only have to answer to one data protection authority under GDPR.,"Under GDPR, controllers and processors will only have to answer to a single data protection authority"
+5,"Under GDPR, there will be just one data protection authority to which controllers and processors must answer.","Under GDPR, controllers and processors will only have to answer to a single data protection authority"
+6,"According to the GDPR, biometric data is classified as sensitive data. ",Biometric data are sensitive data under the GDPR
+6,"According to the GDPR, biometric results are considered sensitive data. ",Biometric data are sensitive data under the GDPR
+6,Biometric data are considered sensitive data under the GDPR.,Biometric data are sensitive data under the GDPR
+6,"Under the GDPR, biometric results are regarded as sensitive data. ",Biometric data are sensitive data under the GDPR
+7,Individuals have the absolute right to be forgotten under GDPR.,"Under GDPR, individuals have an absolute right to be forgotten"
+7,People have a absolute right to be forgotten under GDPR.,"Under GDPR, individuals have an absolute right to be forgotten"
+7,The GDPR guarantees an individual's absolute right to be forgotten. ,"Under GDPR, individuals have an absolute right to be forgotten"
+7,The right to be forgotten is absolutely guaranteed by GDPR.,"Under GDPR, individuals have an absolute right to be forgotten"
+8,"In accordance with GDPR, parental consent is always required when collecting children's personal information.","Under GDPR, parental consent is always required when collecting personal data from children"
+8,"When collecting children's personal data under GDPR, parental consent is always required.","Under GDPR, parental consent is always required when collecting personal data from children"
+8,"When collecting children's personal data, GDPR mandates that parental consent be obtained in all cases.","Under GDPR, parental consent is always required when collecting personal data from children"
+8,"When collecting personal information from children under GDPR, parental consent is always required.","Under GDPR, parental consent is always required when collecting personal data from children"
+9,Any company will be subjected to new data portability legislation as a result of GDPR.,"Under GDPR, every business will be subject to new data portability rules"
+9,New data portability regulations will apply to all businesses under GDPR.,"Under GDPR, every business will be subject to new data portability rules"
+9,New data portability regulations will be imposed by GDPR on all businesses.,"Under GDPR, every business will be subject to new data portability rules"
+9,New rules for data portability will be imposed on all businesses under GDPR.,"Under GDPR, every business will be subject to new data portability rules"
+10,A consent is always required for profiling operations under GDPR.,"Under GDPR, profiling activities always require consent"
+10,Activities involving profiling are always subject to consent under GDPR.,"Under GDPR, profiling activities always require consent"
+10,Activities involving profiling must always have consent under GDPR.,"Under GDPR, profiling activities always require consent"
+10,Profiling activities always require permission under GDPR.,"Under GDPR, profiling activities always require consent"
+11,"According to the GDPR, pseudonymized data (such as hashed data) is treated in the same way as other personal data.",Pseudonymised data (eg hashed data) are treated exactly like any other personal data under the GDPR
+11,Pseudonymized records (eg hashed records) are treated in the same way as any other personal information under GDPR.,Pseudonymised data (eg hashed data) are treated exactly like any other personal data under the GDPR
+11,The GDPR treats pseudonymized data (such as hashed data) the same as other personal data.,Pseudonymised data (eg hashed data) are treated exactly like any other personal data under the GDPR
+11,"Under the GDPR, pseudonymized data (such as hashed data) are treated in the same way as other personal data.",Pseudonymised data (eg hashed data) are treated exactly like any other personal data under the GDPR
+12,"As the notification requirement is eliminated by the GDPR, organizations will have less paperwork.",The GDPR will reduce paperwork for organisations as the notification requirement will be scrapped
+12,"Because the notification requirement is being eliminated, the GDPR will result in less paperwork for organizations.",The GDPR will reduce paperwork for organisations as the notification requirement will be scrapped
+12,"Due to the elimination of the notification requirement, the GDPR will result in less paperwork for organizations.",The GDPR will reduce paperwork for organisations as the notification requirement will be scrapped
+12,Organizations will have less paperwork thanks to the GDPR because the notification requirement is being eliminated.,The GDPR will reduce paperwork for organisations as the notification requirement will be scrapped
+13,It won't take too much effort to comply with GDPR because my organization already complies with the Directive. ,"Since my organisation is compliant under the Directive, there will not be too much work involved in becoming GDPR compliant"
+13,"My company is compliant under the directive, so there will not be too much work involved in making GDPR compliant.","Since my organisation is compliant under the Directive, there will not be too much work involved in becoming GDPR compliant"
+13,There won't be a lot of work involved in becoming GDPR compliant because my organization is already compliant under the Directive. ,"Since my organisation is compliant under the Directive, there will not be too much work involved in becoming GDPR compliant"
+13,There won't be much work involved in becoming GDPR compliant since my organization complies with the Directive. ,"Since my organisation is compliant under the Directive, there will not be too much work involved in becoming GDPR compliant"
+15,The GDPR is unimportant because the UK chose to leave the EU.,"The UK has voted to leave the EU, so there is no need to worry about the GDPR"
+15,"The United Kingdom has voted to leave the EU, so there is no reason to be concerned about the GDPR.","The UK has voted to leave the EU, so there is no need to worry about the GDPR"
+15,There is no need to be concerned about the GDPR because the UK chose to leave the EU.,"The UK has voted to leave the EU, so there is no need to worry about the GDPR"
+15,There is no need to worry about the GDPR because the UK chose to leave the EU.,"The UK has voted to leave the EU, so there is no need to worry about the GDPR"
+19,Autonomous vehicles are managed by conventional computer algorithms (if-then rules).,Self-driving cars are controlled by classical computer algorithms (if-then rules)
+19,Classic computer algorithms are used to control self-driving vehicles (if-then rules).,Self-driving cars are controlled by classical computer algorithms (if-then rules)
+19,Classical computer algorithms (if-then rules) govern the operation of self-driving cars.,Self-driving cars are controlled by classical computer algorithms (if-then rules)
+19,Traditional computer algorithms (if-then rules) are used to operate self-driving cars.,Self-driving cars are controlled by classical computer algorithms (if-then rules)
+23,Autonomous vehicles will make cities more congested.,Self-driving cars will increase congestion in cities
+23,Cities will become more congested as a result of self-driving cars.,Self-driving cars will increase congestion in cities
+23,Congestion in cities will rise as a result of autonomous vehicles.,Self-driving cars will increase congestion in cities
+23,"In cities, self-driving cars will increase congestion.",Self-driving cars will increase congestion in cities
+24,Data privacy stifles Internet of Things innovation and suggests that IoT data cannot be gathered. ,Data privacy impedes IoT innovation and implies that IoT data cannot be collected
+24,"Innovation in the IoT is hampered by data privacy, which implies that IoT data cannot be gathered.",Data privacy impedes IoT innovation and implies that IoT data cannot be collected
+24,"IoT innovation is hampered by data privacy, which suggests that IoT data cannot be gathered.",Data privacy impedes IoT innovation and implies that IoT data cannot be collected
+24,"IoT innovation is hindered by data privacy, which also means that IoT data cannot be collected.",Data privacy impedes IoT innovation and implies that IoT data cannot be collected
+25,IoT privacy protection is completely a regulatory issue.,Privacy-preserving IoT is exclusively a regulatory problem
+25,IoT privacy protection is only a regulatory issue.,Privacy-preserving IoT is exclusively a regulatory problem
+25,IoT privacy protection is solely a regulatory issue.,Privacy-preserving IoT is exclusively a regulatory problem
+25,The privacy-preserving IoT is purely a regulatory issue.,Privacy-preserving IoT is exclusively a regulatory problem
+26,IoT that protects privacy only needs to adhere to data privacy laws. ,Privacy-preserving IoT is exclusively required to comply with data privacy regulations
+26,IoT that protects privacy only needs to follow the rules regarding data privacy. ,Privacy-preserving IoT is exclusively required to comply with data privacy regulations
+26,Only following data privacy laws is necessary for privacy-preserving IoT. ,Privacy-preserving IoT is exclusively required to comply with data privacy regulations
+26,Privacy-preserving IoT is only required to adhere to data privacy legislation.,Privacy-preserving IoT is exclusively required to comply with data privacy regulations
+27,"If IoT data is securely stored, data privacy is absolutely safeguarded.",Data privacy is fully preserved if IoT data is securely stored
+27,"If IoT data is securely stored, data privacy is completely maintained.",Data privacy is fully preserved if IoT data is securely stored
+27,"If IoT data is securely stored, data privacy is fully maintained.",Data privacy is fully preserved if IoT data is securely stored
+27,IoT data that is securely stored maintains full data privacy.,Data privacy is fully preserved if IoT data is securely stored
+28,Decentralized IoT (DeIoT) offers complete data privacy preservation and addresses the privacy issue.,Decentralized IoT (DeIoT) solves the privacy problem and provides absolute data privacy preservation
+28,Decentralized IoT (DeIoT) solves the privacy issue and ensures complete data privacy protection.,Decentralized IoT (DeIoT) solves the privacy problem and provides absolute data privacy preservation
+28,The privacy issue is resolved and complete data privacy is preserved by decentralized IoT (DeIoT).,Decentralized IoT (DeIoT) solves the privacy problem and provides absolute data privacy preservation
+28,"The privacy issue is resolved by decentralized IoT (DeIoT), which guarantees complete data privacy preservation.",Decentralized IoT (DeIoT) solves the privacy problem and provides absolute data privacy preservation
+30,Autonomous vehicles are prepared to be sold to regular motorists.,Driverless cars are ready to be sold to ordinary drivers
+30,The first consumer-facing driverless cars are now available for purchase.,Driverless cars are ready to be sold to ordinary drivers
+30,The first driverless cars are now available for purchase by regular motorists.,Driverless cars are ready to be sold to ordinary drivers
+30,The public can already purchase driverless cars.,Driverless cars are ready to be sold to ordinary drivers
+31,Autonomous vehicles navigate by exchanging real-time messages with one another or a centralized computer.,Self-driving vehicles navigate by communicating in real time with each other or with some central computer.
+31,Self-driving cars navigate by interacting in real time with each other or with some central computer.,Self-driving vehicles navigate by communicating in real time with each other or with some central computer.
+31,Self-driving cars use real-time communication with each other or a centralized computer to navigate.,Self-driving vehicles navigate by communicating in real time with each other or with some central computer.
+31,The real-time communication between autonomous vehicles and a centralized computer is how they navigate.,Self-driving vehicles navigate by communicating in real time with each other or with some central computer.
+32,I can tell if my computer is infected if I don't see anything odd there.,"If I do not notice anything suspicious on my computer, it is not infected"
+32,"If I don't find anything suspicious on my computer, it is not infected.","If I do not notice anything suspicious on my computer, it is not infected"
+32,My computer is not infected if I do not see anything odd on it.,"If I do not notice anything suspicious on my computer, it is not infected"
+32,My computer is not infected if there is nothing suspicious on it. ,"If I do not notice anything suspicious on my computer, it is not infected"
+33,Costly security software is not at all necessary.,There is absolutely no need for expensive security software. There are free programs that are at least as good!
+33,Expense-involved security software is not at all necessary.,There is absolutely no need for expensive security software. There are free programs that are at least as good!
+33,Expensive security software is not at all necessary.,There is absolutely no need for expensive security software. There are free programs that are at least as good!
+33,"There is no need for costly security software, but there are free ones that are at least as good!",There is absolutely no need for expensive security software. There are free programs that are at least as good!
+34,Email attachments are the primary delivery method for malicious software.,Most malicious software is sent as an email attachment
+34,Malicious software is typically delivered via email attachment. ,Most malicious software is sent as an email attachment
+34,The majority of harmful software is delivered via email attachment.,Most malicious software is sent as an email attachment
+34,The majority of malicious software is delivered as an email attachment.,Most malicious software is sent as an email attachment
+35,"As long as I don't download anything, visiting a website won't harm my computer or network.","My PC or network cannot be harmed by my visiting a website, if I don't download anything"
+35,"If I don't download anything when I visit a website, neither my PC nor my network can be harmed.","My PC or network cannot be harmed by my visiting a website, if I don't download anything"
+35,"If I don't download anything while visiting a website, it cannot harm my PC or network.","My PC or network cannot be harmed by my visiting a website, if I don't download anything"
+35,"If I don't download anything, my computer or network will not be affected by my visiting a website.","My PC or network cannot be harmed by my visiting a website, if I don't download anything"
+36,Malware is most commonly downloaded via peer-to-peer and torrent pages.,Malware is most commonly downloaded through peer-to-peer and torrent sites
+36,Most malware is downloaded from peer-to-peer and torrent websites.,Malware is most commonly downloaded through peer-to-peer and torrent sites
+36,Peer-to-peer and torrent websites are where malware is most frequently downloaded from.,Malware is most commonly downloaded through peer-to-peer and torrent sites
+36,Torrent and peer-to-peer networks are where malware is most frequently downloaded.,Malware is most commonly downloaded through peer-to-peer and torrent sites
+37,A page about equestrian sport is less likely to expose you to malware than a porn site.,Visiting a porn site is more likely to result in being attacked by malware than looking at a page about equestrian sport
+37,"As opposed to looking at a page about equestrian sport, visiting a porn website increases your risk of getting infected by malware.",Visiting a porn site is more likely to result in being attacked by malware than looking at a page about equestrian sport
+37,Looking at a page about equestrian sport is less likely to result in malware attack than visiting a porn website.,Visiting a porn site is more likely to result in being attacked by malware than looking at a page about equestrian sport
+37,Malware attacks are more likely to occur when visiting a porn website than when viewing a page about equestrian sport.,Visiting a porn site is more likely to result in being attacked by malware than looking at a page about equestrian sport
+38,A malicious file cannot cause me harm if I don't open it.,"If I do not open an infected file, it can't do any harm"
+38,An infected file can't harm me if I don't open it.,"If I do not open an infected file, it can't do any harm"
+38,I won't be harmed if I don't open a malicious file. ,"If I do not open an infected file, it can't do any harm"
+38,"If I do not open an infected file, it won't do me any harm.","If I do not open an infected file, it can't do any harm"
+39,The bulk of malicious software is distributed via USB sticks.,Most malicious software is distributed via USB sticks
+39,USB sticks are the main method used to spread malicious software.,Most malicious software is distributed via USB sticks
+39,USB sticks are the primary means by which malicious software is spread.,Most malicious software is distributed via USB sticks
+39,USB sticks are the primary means of spreading malicious software.,Most malicious software is distributed via USB sticks
+40,"Because I am savvy and only use secure websites, I can avoid spending money on security software or hardware.","I can save myself the expense of security software or hardware, because I know my way around and only visit safe websites"
+40,I can avoid spending money on security software or hardware because I am savvy and only visit secure websites.,"I can save myself the expense of security software or hardware, because I know my way around and only visit safe websites"
+40,"Since I am savvy and only use secure websites, I can avoid spending money on security software or hardware.","I can save myself the expense of security software or hardware, because I know my way around and only visit safe websites"
+40,"Since I know my way around and only visit secure websites, I can save myself the expense of security software or hardware.","I can save myself the expense of security software or hardware, because I know my way around and only visit safe websites"
+41,"My PC has no useful information, so why does anyone bother it?","My PC holds no valuable data, so why would anyone attack it?"
+41,Nobody would attack my PC because it doesn't contain any important information. ,"My PC holds no valuable data, so why would anyone attack it?"
+41,"There is no valuable information on my PC, so why would someone attack it? ","My PC holds no valuable data, so why would anyone attack it?"
+41,Why would anyone attack my PC when it contains no important data? ,"My PC holds no valuable data, so why would anyone attack it?"
+42,It is quite safe because my computer doesn't run Windows.,"My PC doesn't run Windows, so it is quite safe"
+42,My computer is quite safe because it doesn't run Windows.,"My PC doesn't run Windows, so it is quite safe"
+42,"My PC doesn't run Windows, so it's very safe.","My PC doesn't run Windows, so it is quite safe"
+42,"Since my computer doesn't run Windows, it is quite secure.","My PC doesn't run Windows, so it is quite safe"
+43,Antivirus software providers create malware.,Malware is written by antivirus vendors
+43,Antivirus vendors create malware.,Malware is written by antivirus vendors
+43,Malware is written by antivirus firms.,Malware is written by antivirus vendors
+43,Vendors of antivirus software create malware.,Malware is written by antivirus vendors
+44,Blockchain is a mystical database in the cloud.,Blockchain is a magical database in the cloud.
+44,Blockchain is a mythical cloud database.,Blockchain is a magical database in the cloud.
+44,Blockchain is a mythical cloud-based database.,Blockchain is a magical database in the cloud.
+44,The blockchain is a mythical online database.,Blockchain is a magical database in the cloud.
+45,Blockchain is cost-free.,Blockchain is free
+45,Blockchain is costless.,Blockchain is free
+45,Blockchain is uncharged. ,Blockchain is free
+45,Blockchain is uncostly.,Blockchain is free
+46,One and only one blockchain exists.,There is only one blockchain
+46,One blockchain exists solely.,There is only one blockchain
+46,One blockchain is all there is.,There is only one blockchain
+46,There is just one blockchain.,There is only one blockchain
+47,"Any and all uses of blockchain are possible, as are widespread adoption of blockchain technology.","Blockchain can be used for anything and everything, or blockchains can be used everywhere"
+47,"Anything and everything can use blockchains, or blockchains can be used everywhere.","Blockchain can be used for anything and everything, or blockchains can be used everywhere"
+47,"Blockchain can be used for anything and everything, and blockchains can be used everywhere.","Blockchain can be used for anything and everything, or blockchains can be used everywhere"
+47,Blockchains can be used anywhere or for anything.,"Blockchain can be used for anything and everything, or blockchains can be used everywhere"
+48,"Once a data block has been created or updated, it cannot be changed in the blockchain ledger, which is locked and immutable.","The blockchain ledger is locked and unchangeable/ unable to modify the data block once created, or blockchain data cannot be changed once updated"
+48,"Once a data block has been created or updated, the blockchain ledger is locked and immutable. Similarly, blockchain data cannot be changed.","The blockchain ledger is locked and unchangeable/ unable to modify the data block once created, or blockchain data cannot be changed once updated"
+48,"The blockchain ledger is locked and immutable, and once a data block has been created or updated, it cannot be changed.","The blockchain ledger is locked and unchangeable/ unable to modify the data block once created, or blockchain data cannot be changed once updated"
+48,"The blockchain ledger is locked and unchangeable/unable to change the data block that was originally created, or blockchain data cannot be modified once updated.","The blockchain ledger is locked and unchangeable/ unable to modify the data block once created, or blockchain data cannot be changed once updated"
+49,"Blockchain records can never be hacked or modified/blockchain technology is 100% secure, or blockchains are truth machines.","Blockchain records can never be hacked or changed/blockchain technology is 100% trustworthy, or blockchains are truth machines"
+49,"Blockchain technology is completely reliable and that blockchains themselves are truth machines, blockchain records can never be altered or hacked.","Blockchain records can never be hacked or changed/blockchain technology is 100% trustworthy, or blockchains are truth machines"
+49,"Blockchain technology is completely trustworthy, blockchains are truth machines, and blockchain records can never be altered or hacked.","Blockchain records can never be hacked or changed/blockchain technology is 100% trustworthy, or blockchains are truth machines"
+49,"Blockchain technology is totally trustworthy, blockchains are truth machines, and blockchain records can never be altered or hacked.","Blockchain records can never be hacked or changed/blockchain technology is 100% trustworthy, or blockchains are truth machines"
+50,Bitcoin and blockchain are interchangeable terms. ,Blockchain is bitcoin and bitcoin is blockchain
+50,Bitcoin and blockchain are synonymous terms.,Blockchain is bitcoin and bitcoin is blockchain
+50,"Bitcoin is blockchain, and blockchain is bitcoin.",Blockchain is bitcoin and bitcoin is blockchain
+50,Blockchain and bitcoin are the same thing.,Blockchain is bitcoin and bitcoin is blockchain
+51,Blockchain is only useful for large businesses/commercial communications.,Blockchain is developed for big companies/ commercial communications only
+51,Blockchain was created exclusively for large businesses and business communications.,Blockchain is developed for big companies/ commercial communications only
+51,Only large businesses and commercial communications are supported by blockchain technology.,Blockchain is developed for big companies/ commercial communications only
+51,Only large businesses and commercial communications are the focus of blockchain development.,Blockchain is developed for big companies/ commercial communications only
+52,Nearly identical to standard contracts in legal value are smart contracts.,Smart contracts have a similar legal value to regular contracts
+52,"Similar to traditional contracts, smart contracts are almost equally valuable legally. ",Smart contracts have a similar legal value to regular contracts
+52,Smart contracts are equivalent to conventional contracts in terms of their legal value. ,Smart contracts have a similar legal value to regular contracts
+52,The legal value of smart contracts is similar to that of traditional contracts. ,Smart contracts have a similar legal value to regular contracts
+53,Blockchain are used to hold documents.,Blockchain can store documents
+53,Documents can be kept on a blockchain.,Blockchain can store documents
+53,Documents can be stored on a blockchain.,Blockchain can store documents
+53,The blockchain can store documents.,Blockchain can store documents
+54,Blockchains are only meant to help with money management.,Blockchains are intended only to aid money management
+54,Blockchains are only meant to improve money management.,Blockchains are intended only to aid money management
+54,Blockchains are only meant to support financial management.,Blockchains are intended only to aid money management
+54,Only money management is meant to benefit from blockchain technology.,Blockchains are intended only to aid money management
+55,"Blockchains use a lot of electricity, which is raising prices.","Blockchains consume high volumes of energy, increasing costs"
+55,"Blockchains use a lot of energy, which raises the price.","Blockchains consume high volumes of energy, increasing costs"
+55,Energy costs are rising due to blockchains' high energy consumption.,"Blockchains consume high volumes of energy, increasing costs"
+55,High energy consumption by blockchains raises prices.,"Blockchains consume high volumes of energy, increasing costs"
+57,Any transaction on blockchain is anonymous.,Every transaction on blockchain is anonymous
+57,Blockchain transactions are all anonymous.,Every transaction on blockchain is anonymous
+57,"On the blockchain, every transaction is private.",Every transaction on blockchain is anonymous
+57,The blockchain ensures the privacy of every transaction.,Every transaction on blockchain is anonymous
+58,All blockchains are open to the public.,All blockchains are public
+58,Every blockchains are open to the general public. ,All blockchains are public
+58,Every blockchains are public.,All blockchains are public
+58,There are no private blockchains.,All blockchains are public
+59,Bitcoin wallet providers choose the transaction fee for bitcoin transactions.,The transaction fee of bitcoins is determined by the bitcoin wallet provider.
+59,The bitcoin wallet provider sets the transaction fee for bitcoins. ,The transaction fee of bitcoins is determined by the bitcoin wallet provider.
+59,The bitcoin wallet vendor determines the transaction fee.,The transaction fee of bitcoins is determined by the bitcoin wallet provider.
+59,The provider of the bitcoin wallet chooses the bitcoin transaction fee.,The transaction fee of bitcoins is determined by the bitcoin wallet provider.
+60,It is possible to cancel and undo a bitcoin transaction at any time. ,The bitcoin transaction is reversible and can be canceled anytime.
+60,The bitcoin transaction can be reversed and cancelled at any time.,The bitcoin transaction is reversible and can be canceled anytime.
+60,The bitcoin transaction is cancellable at any time and is reversible. ,The bitcoin transaction is reversible and can be canceled anytime.
+60,The bitcoin transaction is reversible and is always subject to cancellation.,The bitcoin transaction is reversible and can be canceled anytime.
+61,"Blockchain technology is a finance, financial, and accounting oriented device.","Blockchain technology is a finance, financial reporting, or otherwise accounting oriented tool"
+61,"Blockchain technology is a tool that is focused on accounting, finance, and financial reporting.","Blockchain technology is a finance, financial reporting, or otherwise accounting oriented tool"
+61,"Blockchain technology is a tool that is focused on finance, financial reporting, or other aspects of accounting.","Blockchain technology is a finance, financial reporting, or otherwise accounting oriented tool"
+61,"The blockchain is a tool that is focused on accounting, reporting, and finance. ","Blockchain technology is a finance, financial reporting, or otherwise accounting oriented tool"
+62,Blockchain completely solves the trust issue.,Blockchain eliminates the problem of trust entirely.
+62,Blockchain has completely solved the trust issue.,Blockchain eliminates the problem of trust entirely.
+62,The issue of trust is completely eradicated by blockchain.,Blockchain eliminates the problem of trust entirely.
+62,The trust issue is completely resolved by blockchain.,Blockchain eliminates the problem of trust entirely.
+63,Any blockchain transaction can be verified on a public blockchain by any participant (anywhere in the world).,Any participant (anywhere in the world) can validate any blockchain transaction on a public blockchain.
+63,Any participant (from anywhere in the world) can approve any blockchain transaction on a public blockchain.,Any participant (anywhere in the world) can validate any blockchain transaction on a public blockchain.
+63,Any participant can validate any blockchain transaction on a public blockchain from anywhere in the world.,Any participant (anywhere in the world) can validate any blockchain transaction on a public blockchain.
+63,"On a public blockchain, any participant (from anywhere in the world) can validate any transaction.",Any participant (anywhere in the world) can validate any blockchain transaction on a public blockchain.
+64,"Blockchain ecosystems must be devoid of all forms of intermediary action (brokers, curators, etc.).","The blockchain ecosystems are necessarily free of any intermediation (brokers, curators)."
+64,"Blockchain ecosystems must not have any intermediaries (brokers, curators).","The blockchain ecosystems are necessarily free of any intermediation (brokers, curators)."
+64,"The blockchain ecosystem are obviously devoid of any intermediation (brokers, curators).","The blockchain ecosystems are necessarily free of any intermediation (brokers, curators)."
+64,"The blockchain ecosystems must be free from any intermediary activity (brokers, curators, etc.).","The blockchain ecosystems are necessarily free of any intermediation (brokers, curators)."
+65,Adoption of cryptocurrencies in lieu of fiat currencies would reduce hyperinflation plaguing countries such as Venezuela.,Adoption of cryptocurrencies in place of fiat currencies would eliminate hyperinflation plaguing countries like Venezuela.
+65,"By replacing fiat money with cryptocurrencies, countries like Venezuela would no longer experience hyperinflation.",Adoption of cryptocurrencies in place of fiat currencies would eliminate hyperinflation plaguing countries like Venezuela.
+65,Fiat currency substitution with cryptocurrencies would end the hyperinflation afflicting nations like Venezuela.,Adoption of cryptocurrencies in place of fiat currencies would eliminate hyperinflation plaguing countries like Venezuela.
+65,The hyperinflation that afflicts nations like Venezuela would end if cryptocurrencies were adopted in place of fiat money.,Adoption of cryptocurrencies in place of fiat currencies would eliminate hyperinflation plaguing countries like Venezuela.
+66,Complete decentralization exists on public blockchains.,Public blockchains are completely decentralized.
+66,Public blockchains are fully decentralized.,Public blockchains are completely decentralized.
+66,Public blockchains are totally decentralized.,Public blockchains are completely decentralized.
+66,Totally decentralized systems include public blockchains.,Public blockchains are completely decentralized.
+67,Blockchains in the public sphere are safer than those in the private sphere.,Public blockchains are more secure than private blockchains.
+67,Blockchains that are public are safer than those that are private.,Public blockchains are more secure than private blockchains.
+67,"Compared to private blockchains, public blockchains are more secure.",Public blockchains are more secure than private blockchains.
+67,Private blockchains are less secure than public blockchains.,Public blockchains are more secure than private blockchains.
+68,A traditional database system with off-chain data storage is more effective than on-chain data storage in the blockchain framework.,Off-chain sensitive data storage in a traditional database system is better than on-chain storage of data in the blockchain system.
+68,A traditional database system's off-chain sensitive data storage is preferable to a blockchain system's on-chain data storage. ,Off-chain sensitive data storage in a traditional database system is better than on-chain storage of data in the blockchain system.
+68,It is preferable to store sensitive data in a traditional database system off-chain rather than on-chain in a blockchain system. ,Off-chain sensitive data storage in a traditional database system is better than on-chain storage of data in the blockchain system.
+68,Sensitive data should be stored in a traditional database system off-chain rather than on-chain in a blockchain system. ,Off-chain sensitive data storage in a traditional database system is better than on-chain storage of data in the blockchain system.
+69,Governmental fiat currency printing with checks and balances is less preferable to the creation of money by technologists using algorithms and energy waste. ,"Technologists creating ""money"" with algorithms and energy wastage is better than printing of fiat currencies in a governmental system with checks and balances."
+69,"It is preferable for technologists to create ""money"" using algorithms and energy waste than for governments to print fiat money with checks and balances. ","Technologists creating ""money"" with algorithms and energy wastage is better than printing of fiat currencies in a governmental system with checks and balances."
+69,"It is preferable for technologists to create ""money"" using energy-wasting algorithms than for governments to print fiat money with checks and balances. ","Technologists creating ""money"" with algorithms and energy wastage is better than printing of fiat currencies in a governmental system with checks and balances."
+69,"It is preferable to technologists producing ""money"" through energy waste and algorithms than for governments to print fiat money with checks and balances. ","Technologists creating ""money"" with algorithms and energy wastage is better than printing of fiat currencies in a governmental system with checks and balances."
+71,"Because my user account is password-protected, my data will be safe even if my laptop is stolen.","Even if my laptop is stolen, my data is secure because my user account is protected by a password."
+71,"My information is safe even if my laptop is stolen,  because my user account is protected by a password.","Even if my laptop is stolen, my data is secure because my user account is protected by a password."
+71,"My user account is password-protected, so even if my laptop is stolen, my data is safe.","Even if my laptop is stolen, my data is secure because my user account is protected by a password."
+71,"My user account is password-protected, which means that even if my laptop is stolen, my data will still be safe.","Even if my laptop is stolen, my data is secure because my user account is protected by a password."
+72,I can enter my login information unafraid as long as a website appears legitimate.,"As long as a website looks official, I can enter my login data without concern."
+72,I can enter my login information with confidence on any website that appears official.,"As long as a website looks official, I can enter my login data without concern."
+72,I can log in securely as long as a website looks official.,"As long as a website looks official, I can enter my login data without concern."
+72,I don't have to worry when entering my login information as long as a website appears trustworthy.,"As long as a website looks official, I can enter my login data without concern."
+73,"According to the lock icon in the internet browser's address bar, I can recognize a fraudulent website.",I can identify a fraudulent website according to the lock symbol in the address bar of the internet browser
+73,"According to the lock symbol in the address bar of the internet browser, I can identify a fraudulent website.",I can identify a fraudulent website according to the lock symbol in the address bar of the internet browser
+73,The lock icon in the address bar of the web browser helps me recognize a fraudulent website.,I can identify a fraudulent website according to the lock symbol in the address bar of the internet browser
+73,The lock symbol in the internet browser's address bar helps me recognize a fraudulent website.,I can identify a fraudulent website according to the lock symbol in the address bar of the internet browser
+74,Changing my password on a regular basis is crucial for the security of my user accounts.,It is important for the security of my user accounts to regularly change the password.
+74,"For the safety of my user accounts, it is vital to change the password on a regular basis.",It is important for the security of my user accounts to regularly change the password.
+74,I must frequently change my passwords to ensure the security of my user accounts.,It is important for the security of my user accounts to regularly change the password.
+74,Regular password changes are crucial for the security of my user accounts.,It is important for the security of my user accounts to regularly change the password.
+75,Any date of birth is a safe password as long as it isn't my own date of birth.,A date of birth is a secure password as long as it isn't my own date of birth.
+75,"As long as it's not my own birthday, a date of birth makes a secure password.",A date of birth is a secure password as long as it isn't my own date of birth.
+75,"If the date of birth is not mine, it can be used as a secure password.",A date of birth is a secure password as long as it isn't my own date of birth.
+75,"When it's not my own date of birth, a date of birth makes a secure password.",A date of birth is a secure password as long as it isn't my own date of birth.
+76,"Something encrypted is very likely to remain unaltered, which increases its reliability.",There is high reliability that something encrypted is going to remain untampered. It increases that reliability and the assurance that something that has not been altered or stolen or read or whatever.
+76,Something that is encrypted has a high probability of remaining unaltered.,There is high reliability that something encrypted is going to remain untampered. It increases that reliability and the assurance that something that has not been altered or stolen or read or whatever.
+76,The likelihood that something encrypted will remain unaltered is very high.,There is high reliability that something encrypted is going to remain untampered. It increases that reliability and the assurance that something that has not been altered or stolen or read or whatever.
+76,"There's a good chance that something encrypted will remain unchanged, as well as the knowledge that it hasn't been modified, stolen, read, or whatever.",There is high reliability that something encrypted is going to remain untampered. It increases that reliability and the assurance that something that has not been altered or stolen or read or whatever.
+77,"Compared to instant messages, text and email messages are more secure.",Text messages and emails are more secure than instant messages.
+77,Emails and text messages are more secure than instant messages.,Text messages and emails are more secure than instant messages.
+77,Instant messages are less secure than text and email messages.,Text messages and emails are more secure than instant messages.
+77,Text messages and emails are more reliable in security than instant messages.,Text messages and emails are more secure than instant messages.
+78,"Despite end-to-end encryption, messages can still be read by outside parties while in transit.","Even if messages are end-to-end encrypted, they can also be read by third parties during transmission."
+78,"Even if messages are encrypted from end to end, third parties can also be read during transmission.","Even if messages are end-to-end encrypted, they can also be read by third parties during transmission."
+78,Messages can still be read by outside parties during transmission even when they are end-to-end encrypted.,"Even if messages are end-to-end encrypted, they can also be read by third parties during transmission."
+78,Messages can still be read during transmission by outside parties even if they are end-to-end encrypted.,"Even if messages are end-to-end encrypted, they can also be read by third parties during transmission."
+79,"Other devices connected to the same public Wi-Fi network as mine can typically see the information (e.g., passwords, credit card information) I enter on websites when I use it. ","When I use a public Wi-Fi, other devices that are also using this Wi-Fi can generally see what data (e. g., passwords, credit card information) I enter on websites."
+79,"The data (e.g., passwords, credit card information) I enter on websites when I use a public Wi-Fi can typically be seen by other devices connected to the same Wi-Fi. ","When I use a public Wi-Fi, other devices that are also using this Wi-Fi can generally see what data (e. g., passwords, credit card information) I enter on websites."
+79,"When I use a public Wi-Fi, others on the same Wi-Fi can usually see what data (e. g., passwords, credit card information) I enter on websites.","When I use a public Wi-Fi, other devices that are also using this Wi-Fi can generally see what data (e. g., passwords, credit card information) I enter on websites."
+79,"When I use a public Wi-Fi, the devices connected to that Wi-Fi can typically see the information (e.g., passwords, credit card information) I enter on websites. ","When I use a public Wi-Fi, other devices that are also using this Wi-Fi can generally see what data (e. g., passwords, credit card information) I enter on websites."
+80,"By making the device difficult for hackers to locate, private browsing would deter hacking.","Private browsing would prevent hacking, as it would make the device hard to find by hackers."
+80,"Due to the difficulty in locating the device, private browsing would deter hacking.","Private browsing would prevent hacking, as it would make the device hard to find by hackers."
+80,"Hacking will be discouraged by private browsing, since it would make the device difficult to find by hackers.","Private browsing would prevent hacking, as it would make the device hard to find by hackers."
+80,Private browsing would deter hacking because it would be difficult for hackers to locate the device.,"Private browsing would prevent hacking, as it would make the device hard to find by hackers."
+81,"Ads, viruses, and tracking by both the websites visited and the network provider would be avoided with private browsing mode.","Private browsing mode would prevent advertisements, viruses, and tracking by both the websites visited and the network provider"
+81,"Advertising, viruses, and tracking by both the network provider and the websites visited would not be possible when using the private browsing mode.","Private browsing mode would prevent advertisements, viruses, and tracking by both the websites visited and the network provider"
+81,"The use of private browsing would shield users from banner ads, viruses, and network provider and website tracking.","Private browsing mode would prevent advertisements, viruses, and tracking by both the websites visited and the network provider"
+81,"The use of private browsing would shield you from advertisements, viruses, and network provider and website tracking.","Private browsing mode would prevent advertisements, viruses, and tracking by both the websites visited and the network provider"
+82,My searches are hidden from search engines when I use private browsing.,Private browsing prevents search engines from knowing my searches.
+82,Search engines cannot access my searches if I use private browsing.,Private browsing prevents search engines from knowing my searches.
+82,Search engines cannot see my searches when I browse privately.,Private browsing prevents search engines from knowing my searches.
+82,Search engines can't see my searches if I use private browsing.,Private browsing prevents search engines from knowing my searches.
+83,Geolocation is not possible because websites are unable to see IP addresses in private mode.,"Websites cannot view IP addresses in private mode, thereby preventing geolocation"
+83,Geolocation is prevented because websites cannot view IP addresses in private mode.,"Websites cannot view IP addresses in private mode, thereby preventing geolocation"
+83,"In private mode, websites are unable to see IP addresses, thereby preventing geolocation.","Websites cannot view IP addresses in private mode, thereby preventing geolocation"
+83,"Websites are unable to see IP addresses when we are in private mode, which prevents geolocation.","Websites cannot view IP addresses in private mode, thereby preventing geolocation"
+84,"Because private mode does not save search histories, even when a user is signed into a Google account, their search queries will not be saved while the browser is in this mode.","Even while a user was logged into a Google account, their search queries would not be saved while in private mode because private mode does not save search histories."
+84,"Because private mode does not save search histories, users' search queries would not be saved while in private mode even if they were logged into a Google account.","Even while a user was logged into a Google account, their search queries would not be saved while in private mode because private mode does not save search histories."
+84,"Because private mode doesn't save search histories, a user's search queries would not be saved even if they were logged into a Google account while using it.","Even while a user was logged into a Google account, their search queries would not be saved while in private mode because private mode does not save search histories."
+84,"Even if a user was signed into a Google account, their search queries would not be saved in private mode because private mode does not save search histories.","Even while a user was logged into a Google account, their search queries would not be saved while in private mode because private mode does not save search histories."
+85,"Because private mode deletes all local, temporary data, including bookmarks, bookmarks saved in private mode would not be preserved across sessions.","Bookmarks saved in private mode would not persist in later sessions because private mode deletes all local, temporary data, including bookmarks."
+85,"Bookmarks saved in private mode will not be available in subsequent sessions because private mode deletes all local, temporary, and bookmark information, as well as bookmarks.","Bookmarks saved in private mode would not persist in later sessions because private mode deletes all local, temporary data, including bookmarks."
+85,"Due to private mode's deletion of all local, temporary data, including bookmarks, saved bookmarks would not be preserved across sessions.","Bookmarks saved in private mode would not persist in later sessions because private mode deletes all local, temporary data, including bookmarks."
+85,"Due to the fact that private mode clears all local, temporary data, including bookmarks, bookmarks saved in private mode would not be preserved across sessions.","Bookmarks saved in private mode would not persist in later sessions because private mode deletes all local, temporary data, including bookmarks."
+86,"For the government to be able to view browsing history in private mode, a warrant is required.",Government would need a warrant to access browsing activity from private mode.
+86,"If the government wanted to view browsing history in private mode, they would need a warrant.",Government would need a warrant to access browsing activity from private mode.
+86,"To access browsing activity from private mode, the government will need a warrant.",Government would need a warrant to access browsing activity from private mode.
+86,"To view browsing history in private mode, the government would require a warrant.",Government would need a warrant to access browsing activity from private mode.
+87,"If employees were using private mode, employers would be unable to track them.",Employers would be unable to track employees when they used private mode.
+87,"When employees used private mode, their employers couldn't track them.",Employers would be unable to track employees when they used private mode.
+87,"When using private mode, employees would be invisible to their employers.",Employers would be unable to track employees when they used private mode.
+87,"When using private mode, employees wouldn't be able to be tracked by their employers.",Employers would be unable to track employees when they used private mode.
+88,"If we were using private mode, the government would not be able to track us.",The government would be unable to track us when we used private mode.
+88,Using private mode would prevent the government from being able to find us.,The government would be unable to track us when we used private mode.
+88,"When we used private mode, the government would be unable to find us.",The government would be unable to track us when we used private mode.
+88,"When we were in private mode, the government couldn't find us.",The government would be unable to track us when we used private mode.
+89,"Because it enables the user to be hidden and out of the reach of simple credit card hackers at online stores, private browsing would be very effective in preventing online stores from misusing one's credit card information.","With respect to preventing online stores from misusing one's credit card information, private browsing would be very effective because it allows the user to be undercover and out of reach of basic credit card hackers at online stores"
+89,Private browsing would be particularly helpful in preventing online stores from misusing one's credit card information because it allows the customer to be undercover and out of reach of basic credit card hackers at online stores.,"With respect to preventing online stores from misusing one's credit card information, private browsing would be very effective because it allows the user to be undercover and out of reach of basic credit card hackers at online stores"
+89,Private browsing would be very effective in preventing online stores from misusing a customer's credit card information because it enables the user to be covert and out of the reach of simple credit card hackers at online stores.,"With respect to preventing online stores from misusing one's credit card information, private browsing would be very effective because it allows the user to be undercover and out of reach of basic credit card hackers at online stores"
+89,Private browsing would be very effective in preventing online stores from misusing a user's credit card information because it enables the user to be covert and out of the reach of simple credit card hackers at online stores.,"With respect to preventing online stores from misusing one's credit card information, private browsing would be very effective because it allows the user to be undercover and out of reach of basic credit card hackers at online stores"
+90,I can avoid entering my passwords or credit card details on risky websites thanks to a VPN.,A VPN protects me from entering my passwords or credit card information on dangerous websites
+90,I'm prevented from entering my passwords or credit card details on risky websites by a VPN.,A VPN protects me from entering my passwords or credit card information on dangerous websites
+90,I'm prevented from entering my passwords or credit card numbers on dangerous websites by a VPN.,A VPN protects me from entering my passwords or credit card information on dangerous websites
+90,My credit card number and password cannot be entered on risky websites thanks to a VPN.,A VPN protects me from entering my passwords or credit card information on dangerous websites
+91,VPNs would be completely ineffective at shielding users from ISP monitoring.,VPNs would be not at all effective at preventing observation by the ISP.
+91,VPNs would not be able to block observing by the ISP at all.,VPNs would be not at all effective at preventing observation by the ISP.
+91,VPNs wouldn't be able to stop the ISP from watching you at all.,VPNs would be not at all effective at preventing observation by the ISP.
+91,VPNs wouldn't work very well at all to stop ISP monitoring.,VPNs would be not at all effective at preventing observation by the ISP.
+92,Hackers wouldn't be able to access their device thanks to VPNs.,VPNs would prevent hackers from gaining access to their device.
+92,"Through the use of VPNs, hackers could not access the user's device. ",VPNs would prevent hackers from gaining access to their device.
+92,Using a VPN would stop hackers from accessing their device.,VPNs would prevent hackers from gaining access to their device.
+92,Virtual private networks (VPNs) would stop hackers from accessing their device.,VPNs would prevent hackers from gaining access to their device.
+93,"Because I have my own private network that nobody else can access, VPNs would be very effective at preventing friends or family from seeing the websites in my browser history from my computer. ",VPNs would be very effective at preventing friends or family from seeing the websites in my browser history from my computer because I have my own private network that others cannot get into.
+93,"Due to the fact that I have a secure private network that no one else can access, VPNs would be very effective at preventing friends or family from seeing the websites in my browser history from my computer. ",VPNs would be very effective at preventing friends or family from seeing the websites in my browser history from my computer because I have my own private network that others cannot get into.
+93,"Since I have a private network that only I can access, VPNs would be very effective at preventing friends or family from seeing the websites in my browser history from my computer. ",VPNs would be very effective at preventing friends or family from seeing the websites in my browser history from my computer because I have my own private network that others cannot get into.
+93,"Since I have my own private network that others are unable to use, VPNs could be very helpful in preventing friends or family from seeing the pages in my browser history from my computer.",VPNs would be very effective at preventing friends or family from seeing the websites in my browser history from my computer because I have my own private network that others cannot get into.
+94,HTTPS-based websites are trustworthy.,Websites that use HTTPS are trustworthy
+94,HTTPS-enabled websites are reliable.,Websites that use HTTPS are trustworthy
+94,The HTTPS protocol ensures the security of websites.,Websites that use HTTPS are trustworthy
+94,Websites using HTTPS are reliable.,Websites that use HTTPS are trustworthy
+95,"Because the government will always be able to see what you are doing if they want to, Tor Browser is not at all effective at preventing government observation.","Tor Browser would be not at all effective at preventing observation by the government because if the government wants to see what you are doing, they will see it no matter what."
+95,"If the government wants to know what you're doing, Tor Browser will not be able to prevent surveillance by the government because they will see it no matter what.","Tor Browser would be not at all effective at preventing observation by the government because if the government wants to see what you are doing, they will see it no matter what."
+95,"Since the government will always be able to see what you are doing, using Tor Browser would be of no use in preventing their observation.","Tor Browser would be not at all effective at preventing observation by the government because if the government wants to see what you are doing, they will see it no matter what."
+95,"Tor Browser will not be able to block government surveillance because if the government wants to know what you're doing, they will see it no matter what.","Tor Browser would be not at all effective at preventing observation by the government because if the government wants to see what you are doing, they will see it no matter what."
+96,Ad blockers could help users hide their location from the websites they visit.,Ad blockers would be somewhat effective at preventing the websites they visit from seeing their physical location
+96,Ad blockers could help users keep their physical location private from the websites they visit.,Ad blockers would be somewhat effective at preventing the websites they visit from seeing their physical location
+96,Ad blockers would be able to block the websites they visit from knowing their physical location.,Ad blockers would be somewhat effective at preventing the websites they visit from seeing their physical location
+96,The websites they visit wouldn't be able to see their physical location very well with ad blockers enabled.,Ad blockers would be somewhat effective at preventing the websites they visit from seeing their physical location
+97,"Because the onion router is so deep and layered with basic security, it can't be maliciously hacked, it would be highly effective at blocking hackers from accessing their device.",Tor Browser would be very effective at preventing hackers from gaining access to their device because the onion router is so deep and layered with basic protection it can't be used to maliciously hack
+97,"Because the onion router is so thick and layered with protection, it can't be used to maliciously hack, Tor Browser would be very effective at preventing hackers from accessing their device.",Tor Browser would be very effective at preventing hackers from gaining access to their device because the onion router is so deep and layered with basic protection it can't be used to maliciously hack
+97,"Because the onion router is so well-protected and has so many layers, Tor Browser would be very effective at preventing hackers from accessing the user's device.",Tor Browser would be very effective at preventing hackers from gaining access to their device because the onion router is so deep and layered with basic protection it can't be used to maliciously hack
+97,"The onion router is so deep and layered with protection that it cannot be used to maliciously hack, so Tor Browser would be very effective at preventing hackers from accessing their device.",Tor Browser would be very effective at preventing hackers from gaining access to their device because the onion router is so deep and layered with basic protection it can't be used to maliciously hack
+98,Only if websites access the location API can they ascertain their location.,Websites can only determine their location if websites access it through the location API
+98,Only websites that use the location API to access the location data can determine their own location.,Websites can only determine their location if websites access it through the location API
+98,Websites can only ascertain their location if they access it via the location API.,Websites can only determine their location if websites access it through the location API
+98,Websites can only determine their location if websites access it via the location API.,Websites can only determine their location if websites access it through the location API
+99,"Since your data still passes through your ISP, the Tor browser is only completely secure when used in conjunction with a VPN and set up to use a proxy. ","Tor browser is most safe only when with a VPN and have it configured to use a proxy, since your data still goes through your ISP"
+99,"Since your data still passes through your ISP, the Tor browser is only truly secure when used in conjunction with a VPN and set up to use a proxy. ","Tor browser is most safe only when with a VPN and have it configured to use a proxy, since your data still goes through your ISP"
+99,"Since your data still passes through your ISP, using a VPN and configuring your Tor browser to use a proxy are your best bets for security. ","Tor browser is most safe only when with a VPN and have it configured to use a proxy, since your data still goes through your ISP"
+99,"Since your data still passes through your ISP, using Tor with a VPN and configuring it to use a proxy is the only way to ensure maximum security. ","Tor browser is most safe only when with a VPN and have it configured to use a proxy, since your data still goes through your ISP"
+100,I can prevent other computer users from seeing where I've been online if I visit websites that use HTTPS.,If I visit websites that use HTTPS then other people that use my computer cannot see where I have been on the Internet
+100,"If I visit websites that support HTTPS, anyone else using my computer cannot see where I have been online.",If I visit websites that use HTTPS then other people that use my computer cannot see where I have been on the Internet
+100,"If I visit websites that use HTTPS, then those that use my personal computer will not know where I have been on the Internet.",If I visit websites that use HTTPS then other people that use my computer cannot see where I have been on the Internet
+100,Other users of my computer cannot see where I have been online if I visit websites that support HTTPS.,If I visit websites that use HTTPS then other people that use my computer cannot see where I have been on the Internet
+101,The Tor browser is a dark web browser that is specifically designed for file sharing on the dark web. ,"Tor browser is for the dark web and file sharing, it is the very definition of a dark web browser."
+101,Tor browser is the very definition of a dark web browser and is for dark web file sharing.,"Tor browser is for the dark web and file sharing, it is the very definition of a dark web browser."
+101,Tor is the epitome of a dark web browser because it is designed for file sharing on the dark web. ,"Tor browser is for the dark web and file sharing, it is the very definition of a dark web browser."
+101,Tor is the quintessential example of a dark web browser and is used for file sharing on the dark web. ,"Tor browser is for the dark web and file sharing, it is the very definition of a dark web browser."
+102,Law enforcement couldn't access the websites because of antivirus software.,Antivirus software would prevent law enforcement from seeing the websites I visited
+102,Law enforcement would be unable to access the websites thanks to antivirus software.,Antivirus software would prevent law enforcement from seeing the websites I visited
+102,The websites would be hidden from law enforcement by antivirus software.,Antivirus software would prevent law enforcement from seeing the websites I visited
+102,The websites would be inaccessible to law enforcement due to antivirus software.,Antivirus software would prevent law enforcement from seeing the websites I visited
+103,Antivirus applications can be used to block websites from misusing their card details.,Antivirus software would prevent websites from misusing their card information
+103,Website abuse of their card information would be prevented by antivirus software.,Antivirus software would prevent websites from misusing their card information
+103,Websites couldn't misuse customers' credit card information thanks to antivirus software.,Antivirus software would prevent websites from misusing their card information
+103,Websites wouldn't be able to misuse their card information with antivirus software.,Antivirus software would prevent websites from misusing their card information
+104,"For criminals looking to conduct illicit business safely, Tor was specifically created.",Tor is especially designed for criminals who want to make illegal business securely.
+104,"For criminals who want to conduct illicit business in a secure manner, Tor was specifically created.",Tor is especially designed for criminals who want to make illegal business securely.
+104,Tor is especially designed for criminals who want to conduct unlawful activity in a safe manner.,Tor is especially designed for criminals who want to make illegal business securely.
+104,Tor is specifically made for criminals who want to conduct illicit business in a secure manner.,Tor is especially designed for criminals who want to make illegal business securely.
+105,Tor has a backdoor that is frequently used by US law enforcement agencies.,Tor has a backdoor heavily used by US law enforcement services.
+105,Tor has a backdoor that is often used by US law enforcement agencies.,Tor has a backdoor heavily used by US law enforcement services.
+105,US law enforcement agencies frequently use the backdoor that Tor has.,Tor has a backdoor heavily used by US law enforcement services.
+105,US law enforcement agencies frequently utilize Tor's backdoor.,Tor has a backdoor heavily used by US law enforcement services.
+106,Tor anonimizes customers completely.,Tor anonimize users completely
+106,Tor users are completely anonymous.,Tor anonimize users completely
+106,Users of Tor are totally anonymous.,Tor anonimize users completely
+106,"With Tor, users are completely anonymous.",Tor anonimize users completely
+107,Data collection for commercial purposes is completely prohibited by VPNs.,VPNs completely prevent data collection for commercial purposes
+107,Using a VPN prevents all commercial data collection.,VPNs completely prevent data collection for commercial purposes
+107,VPNs completely stop the collection of data for commercial purposes.,VPNs completely prevent data collection for commercial purposes
+107,VPNs completely stop the collection of data for commercial use.,VPNs completely prevent data collection for commercial purposes
+108,VPNs could defend you from server-side threats.,VPNs would protect against serverside threat
+108,VPNs will shield you from the serverside attack.,VPNs would protect against serverside threat
+108,VPNs would offer protection from server-side threats.,VPNs would protect against serverside threat
+108,VPNs would provide server side threat protection.,VPNs would protect against serverside threat
+110,"For safe passwords, reusing passwords is fine, but poor passwords should be avoided.","Reusing passwords is OK for secure passwords, but should be avoided for weak passwords"
+110,"For secure passwords, reusing them is acceptable; however, for weak passwords, it should be avoided.","Reusing passwords is OK for secure passwords, but should be avoided for weak passwords"
+110,"Password reuse is acceptable for secure passwords, but it should be avoided for weak ones.","Reusing passwords is OK for secure passwords, but should be avoided for weak passwords"
+110,"Reusing passwords is acceptable when they are secure, but it is not recommended when they are weak.","Reusing passwords is OK for secure passwords, but should be avoided for weak passwords"
+111,Password security is automatically increased by the use of symbols.,The inclusion of symbols makes passwords automatically more secure.
+111,Passwords are automatically more secure thanks to the inclusion of symbols.,The inclusion of symbols makes passwords automatically more secure.
+111,Passwords are automatically more secure when symbols are used.,The inclusion of symbols makes passwords automatically more secure.
+111,Passwords are automatically more secure when they contain symbols.,The inclusion of symbols makes passwords automatically more secure.
+112,"By blocking ads online, private browsing improves system security.",Private browsing benefits system security by blocking ads online.
+112,"By blocking online advertisements, private browsing enhances system security.",Private browsing benefits system security by blocking ads online.
+112,"By preventing online ads, private browsing increases system security.",Private browsing benefits system security by blocking ads online.
+112,Internet ad blocking feature of private browsing increases system security.,Private browsing benefits system security by blocking ads online.
+113,Phishing could be prevented by HTTPS protocol.,HTTPS protocol could protect against phishing
+113,The HTTPS protocol can defend against phishing.,HTTPS protocol could protect against phishing
+113,The HTTPS protocol could shield against phishing attacks.,HTTPS protocol could protect against phishing
+113,The HTTPS protocol offers phishing protection.,HTTPS protocol could protect against phishing
+114,HTTPS protects against both people being able to see what their partner did online and employers being able to determine whether workers weren't putting in the necessary time at work.,HTTPS prevents people from seeing what their partner did on the Internet or the employer from seeing whether employees were not working when they should have been.
+114,"HTTPS shields users from discovering what their partner did online, and it shields employers from discovering whether staff members weren't putting in the required hours.",HTTPS prevents people from seeing what their partner did on the Internet or the employer from seeing whether employees were not working when they should have been.
+114,HTTPS shields users from spying on their partners' online activities and shields employers from discovering if staff members weren't putting in the required hours of work.,HTTPS prevents people from seeing what their partner did on the Internet or the employer from seeing whether employees were not working when they should have been.
+114,"In addition to preventing employees from using the Internet to spy on their partners, HTTPS also shields employers from discovering if their staff members weren't putting in the required hours of work.",HTTPS prevents people from seeing what their partner did on the Internet or the employer from seeing whether employees were not working when they should have been.
+115,"Although the lock symbol conjures up images of security with the intention of fostering trust, it says nothing about the websites' or connections' actual security."", ","The lock symbol puts security in people's mind with the purpose to build up trust, this does not mean anything about the security of the websites or connection."
+115,"The lock symbol conjures up thoughts of security in order to foster trust; however, it says nothing about the security of websites or connections.","The lock symbol puts security in people's mind with the purpose to build up trust, this does not mean anything about the security of the websites or connection."
+115,"The lock symbol evokes feelings of security and trust in people, but it says nothing about the safety of websites or connections.', ","The lock symbol puts security in people's mind with the purpose to build up trust, this does not mean anything about the security of the websites or connection."
+115,"The lock symbol evokes security in people's minds in an effort to foster trust; however, it says nothing about the security of websites or connections.""]]","The lock symbol puts security in people's mind with the purpose to build up trust, this does not mean anything about the security of the websites or connection."
+116,"HTTPS is a bad protocol, and I don't need two-factor authentication if HTTPS were safe.","HTTPS is a bad protocol, if HTTPS were secure, I wouldn't need two-factor authentication."
+116,"HTTPS is a bad protocol, and if HTTPS were safe, I wouldn't need two-factor authentication.","HTTPS is a bad protocol, if HTTPS were secure, I wouldn't need two-factor authentication."
+116,I would not require two-factor authentication if HTTPS were a secure protocol. Therefore HTTPS is a bad protocol.,"HTTPS is a bad protocol, if HTTPS were secure, I wouldn't need two-factor authentication."
+116,"If HTTPS were secure, I wouldn't need two-factor authentication, so it's a bad protocol.","HTTPS is a bad protocol, if HTTPS were secure, I wouldn't need two-factor authentication."
+117,A connected object (IoT) that receives security updates must not be safe.,An IoT device that receives security patches must not be secure.
+117,An IoT device that requires security patches must not be secure.,An IoT device that receives security patches must not be secure.
+117,"If a security patch is required, an IoT device can't be trusted to be secure.",An IoT device that receives security patches must not be secure.
+117,Receiving security updates implies that an IoT device is not secure.,An IoT device that receives security patches must not be secure.
+118,Password managers are more vulnerable to hacks when they sync users' passwords.,Synchronizing passwords in a password manager increases their exposure to breaches
+118,Passwords are more vulnerable to breaches when they are synced in a password manager.,Synchronizing passwords in a password manager increases their exposure to breaches
+118,Passwords that are synced in a password manager are more vulnerable to hacks.,Synchronizing passwords in a password manager increases their exposure to breaches
+118,Synchronizing passwords in a password manager increases their vulnerability to hacks.,Synchronizing passwords in a password manager increases their exposure to breaches
+119,"Attackers who target passwords do not automate their procedures; instead, they carry them out manually.","Password attackers do not automate their attacks, but perform them by hand"
+119,"Password attackers do not automatize their attacks, but rather execute them by hand.","Password attackers do not automate their attacks, but perform them by hand"
+119,Password hackers carry out their attacks manually rather than automatically.,"Password attackers do not automate their attacks, but perform them by hand"
+119,Password hackers manually execute their attacks rather than automating them.,"Password attackers do not automate their attacks, but perform them by hand"
+120,"Because security is the responsibility of the IT team, work accounts have fewer security requirements.",Work accounts have lower security requirements because the IT staff is responsible for security
+120,"Because the IT staff is responsible for defense, work accounts have lower security requirements.",Work accounts have lower security requirements because the IT staff is responsible for security
+120,"Because the IT team is in charge of security, work accounts have less stringent security requirements.",Work accounts have lower security requirements because the IT staff is responsible for security
+120,"Given that the IT team is in charge of security, work accounts have laxer security requirements.",Work accounts have lower security requirements because the IT staff is responsible for security
+121,Alternatives that are frequently used (e.g. a to @) make passwords more secure,Common substitutions (e.g. a @) make passwords more secure
+121,Passwords are more secure thanks to common substitutions (e.g. a to @).,Common substitutions (e.g. a @) make passwords more secure
+121,Passwords are more secure when common substitutions (like a to @) are used.,Common substitutions (e.g. a @) make passwords more secure
+121,Typical alternatives (e.g. a to @) increase the security of passwords.,Common substitutions (e.g. a @) make passwords more secure
+122,A computer virus can be activated by responding to an unsolicited message.,Answering a message from a stranger can trigger a computer virus
+122,A computer virus can be started by responding to a strange person's message.,Answering a message from a stranger can trigger a computer virus
+122,A computer virus may be launched by responding to a strange message.,Answering a message from a stranger can trigger a computer virus
+122,Answering a stranger's message can result in a computer virus outbreak.,Answering a message from a stranger can trigger a computer virus
+123,"In ""smart homes,"" only gadgets I actively use can gather information about me (e.g., the doorbell)","In smart homes, only devices I actively interact with are able to collect data about me (e.g., the doorbell)"
+123,"In ""smart homes,"" only gadgets that I actively use can gather information about me (e.g., the doorbell)","In smart homes, only devices I actively interact with are able to collect data about me (e.g., the doorbell)"
+123,"Only devices that I actively use are able to gather information about me (e.g., the doorbell) in smart homes.","In smart homes, only devices I actively interact with are able to collect data about me (e.g., the doorbell)"
+123,"Only gadgets that I actively interact with in a smart home can gather information about me (e.g., the doorbell)","In smart homes, only devices I actively interact with are able to collect data about me (e.g., the doorbell)"
+124,I must have a registered account on an IoT device in order for the data that is collected to be linked to me.,"In IoT Devices, for collected data to be linked to me, I must have an account registered on the device"
+124,I need to have an account registered on an IoT device for the collected data to be linked to me.,"In IoT Devices, for collected data to be linked to me, I must have an account registered on the device"
+124,I need to have an account registered on an IoT device in order for the data that is collected to be linked to me.,"In IoT Devices, for collected data to be linked to me, I must have an account registered on the device"
+124,"In IoT devices, I need to have a registered account for the collected data to be linked to me.","In IoT Devices, for collected data to be linked to me, I must have an account registered on the device"
+125,Most Internet of Things (IoT) devices process data locally rather than in the cloud.,Most Iot Devices process their data locally and not the cloud
+125,"The bulk of Iot Devices process their data locally, not in the cloud.",Most Iot Devices process their data locally and not the cloud
+125,The majority of IoT devices don't use the cloud to process their data.,Most Iot Devices process their data locally and not the cloud
+125,"The majority of Iot Devices process their information locally, not in the cloud.",Most Iot Devices process their data locally and not the cloud
+126,Almost all IoT devices don't store their data.,Most IoT Devices do not store their data
+126,Data is not typically stored by IoT devices.,Most IoT Devices do not store their data
+126,The bulk of IoT devices do not store their personal information.,Most IoT Devices do not store their data
+126,The majority of IoT gadgets do not store their personal information.,Most IoT Devices do not store their data
+127,IoT devices that don't receive security updates are protected to the fullest extent possible.,Receiving no security updates for IoT devices implies maximum security protection since there is no need for updates.
+127,"Since there is no need for updates, receiving no security updates for IoT devices gives the highest level of security.",Receiving no security updates for IoT devices implies maximum security protection since there is no need for updates.
+127,"Since there is no need for updates, receiving no security updates for IoT devices implies maximum security protection.",Receiving no security updates for IoT devices implies maximum security protection since there is no need for updates.
+127,"Since there is no need for updates, receiving no security updates means that IoT devices are protected to the fullest extent possible.",Receiving no security updates for IoT devices implies maximum security protection since there is no need for updates.
+128,Any system can be made more secure by using biometric authentication.,Biometrics authentication is a panacea for improving security of any system
+128,Any system's security can always be improved with biometric authentication.,Biometrics authentication is a panacea for improving security of any system
+128,Biometrics authentication is a panacea for increasing the level of protection of any system.,Biometrics authentication is a panacea for improving security of any system
+128,The secret to enhancing the security of any system is biometric authentication.,Biometrics authentication is a panacea for improving security of any system
+129,The inconvenience of Two Factor Authentication outweighs its security gains.,The inconvenience of Two Factor Authentication outweighs its security benefits.
+129,Two Factor Authentication's inconvenience outweighs its security gains.,The inconvenience of Two Factor Authentication outweighs its security benefits.
+129,Two Factor Authentication's security advantages are outweighed by its inconvenience.,The inconvenience of Two Factor Authentication outweighs its security benefits.
+129,Two-factor authentication is more troublesome than it is secure.,The inconvenience of Two Factor Authentication outweighs its security benefits.
+130,Cookies can be used to spread viruses.,Cookies can be used to transmit viruses
+130,Viral transmission can happen through cookies.,Cookies can be used to transmit viruses
+130,Viruses can be spread through cookies.,Cookies can be used to transmit viruses
+130,Viruses can be spread using cookies.,Cookies can be used to transmit viruses
+131,"Since my door will unlock if I am near it inside my home while carrying my phone, smart locks present a security risk.","Smart locks pose a security risk if because if I have my phone and am close to my door inside my home, my door will unlock"
+131,Smart locks are a security risk because they automatically unlock if I am near my door inside my house with my phone in hand.,"Smart locks pose a security risk if because if I have my phone and am close to my door inside my home, my door will unlock"
+131,"Smart locks are a security risk, especially because I have my phone and am close to my door inside my house, my door will unlock.","Smart locks pose a security risk if because if I have my phone and am close to my door inside my home, my door will unlock"
+131,"Smart locks pose a security risk because if I have my phone and am close to my door inside my house, my door will unlock.","Smart locks pose a security risk if because if I have my phone and am close to my door inside my home, my door will unlock"
+132,All Internet of Things (IoT) devices keep their data on remote servers in a particular location.,All IoT Devices store all their data in remote servers in a specific loaction
+132,All IoT Devices store all their information in remote servers in a specialized location.,All IoT Devices store all their data in remote servers in a specific loaction
+132,All IoT Devices store all their personal information on remote servers in a specialized location.,All IoT Devices store all their data in remote servers in a specific loaction
+132,Every IoT device stores all of its data on distant servers in a particular location.,All IoT Devices store all their data in remote servers in a specific loaction
+133,Biometrics in FIDO2 Biometric WebAuthn are stored on the server or in a remote database managed by the website.,Biometrics in FIDO2 Biometric WebAuthn is stored on the server or in a remote database operated by the website
+133,Biometrics in FIDO2 Biometric WebAuthn are stored on the server or in a remote database used by the website.,Biometrics in FIDO2 Biometric WebAuthn is stored on the server or in a remote database operated by the website
+133,FIDO2 Biometric WebAuthn stores biometric information on the server or in a remote database run by the website.,Biometrics in FIDO2 Biometric WebAuthn is stored on the server or in a remote database operated by the website
+133,"In FIDO2 Biometric WebAuthn, biometric information is kept on the server or in a remote database managed by the website.",Biometrics in FIDO2 Biometric WebAuthn is stored on the server or in a remote database operated by the website
